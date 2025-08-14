@@ -1,10 +1,15 @@
 This code:
 - corrects .csv files to right number of columns
     ex) column with 2 data sets per cell
-          A1 = [0,1] (wrong) 
+  
+          A1 = [0,1] (wrong)
+  
     to 2 columns with 1 data set per cell
+  
         A1 = [0]
+  
         B1 = [1] (correct)
+  
 - Option to save using CSV module or Pandas
 
 **Comment and uncomment lines of code as necessary**
